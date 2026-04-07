@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-data = pd.read_csv('test.csv')
+data = pd.read_csv('dataset.csv')
 
 temp = data['mean_temp']
 
