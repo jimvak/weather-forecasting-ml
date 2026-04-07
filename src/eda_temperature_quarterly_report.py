@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-
 data = pd.read_csv('test.csv')
 
 date = data['date']
