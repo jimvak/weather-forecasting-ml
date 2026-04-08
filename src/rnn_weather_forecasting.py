@@ -13,7 +13,7 @@ from sklearn.model_selection import train_test_split
 
 
 
-data = pd.read_csv('dataset.csv')
+data = pd.read_csv('data/dataset.csv')
 
 temp = data['mean_temp']
 
