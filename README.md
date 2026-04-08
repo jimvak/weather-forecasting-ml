@@ -120,7 +120,7 @@ cd weather-forecasting-ml
 pip install -r requirements.txt
 
 
-2. **How to Run**  
+**How to Run**  
 This is the most important missing section. Your README describes the scripts conceptually, but it does not tell the reader which command runs which part. :contentReference[oaicite:3]{index=3}
 
 ```markdown
