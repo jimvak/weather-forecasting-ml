@@ -93,11 +93,12 @@ The main conclusions of the project were:
 
 The implementation was developed in Python using libraries such as:
 
-- `csv`
-- `pandas`
 - `numpy`
+- `pandas`
 - `matplotlib`
 - `scikit-learn`
+- `tensorflow`
+- `keras`
 
 ## Repository Structure
 
