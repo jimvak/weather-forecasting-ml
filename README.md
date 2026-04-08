@@ -109,7 +109,7 @@ The implementation was developed in Python using libraries such as:
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 ## Installation
 
 Clone the repository and install the required dependencies:
