@@ -22,7 +22,7 @@ from sklearn.cluster import SpectralClustering
 
 from sklearn.cluster import OPTICS
 
-data = pd.read_csv('dataset.csv')
+data = pd.read_csv('data/dataset.csv')
 
 temp = data['mean_temp']
 
