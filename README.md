@@ -105,6 +105,7 @@ The implementation was developed in Python using libraries such as:
 .
 ├── data/               # dataset files
 ├── src/                # source code for EDA, ML, clustering, RNN, and LSTM
+├── requirements.txt
 ├── README.md
 ├── LICENSE
 └── .gitignore
