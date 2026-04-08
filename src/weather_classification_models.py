@@ -32,7 +32,7 @@ from sklearn.svm import SVC
 
 from sklearn.naive_bayes import GaussianNB
 
-data = pd.read_csv('dataset.csv')
+data = pd.read_csv('data/dataset.csv')
 
 temp = data['mean_temp']
 
