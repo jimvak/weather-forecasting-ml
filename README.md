@@ -118,10 +118,8 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/jimvak/weather-forecasting-ml.git
 cd weather-forecasting-ml
 pip install -r requirements.txt
+```
 
-
-**How to Run**  
-This is the most important missing section. Your README describes the scripts conceptually, but it does not tell the reader which command runs which part. :contentReference[oaicite:3]{index=3}
 
 ```markdown
 ## How to Run
@@ -135,3 +133,4 @@ python src/weather_classification_models.py
 python src/weather_clustering.py
 python src/rnn_weather_forecasting.py
 python src/lstm_weather_forecasting.py
+```
