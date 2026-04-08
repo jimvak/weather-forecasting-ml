@@ -121,7 +121,7 @@ pip install -r requirements.txt
 ```
 
 
-```markdown
+
 ## How to Run
 
 Place the dataset inside the `data/` folder and run the scripts from the project root.
